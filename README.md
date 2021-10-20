@@ -2,11 +2,16 @@
 This video was made to describe the process of driving an Ultrasonic sensor on and FPGA via Verilog.
 
 
-Parts:\n
+Parts:
+
 HC-SR04 - https://amzn.to/2u4oEbZ
+
 LM339 - https://amzn.to/39Xq9rH
+
 Wire - https://amzn.to/2T9CaTV
+
 Breadboard - https://amzn.to/39VttU5
+
 Resistor kit - https://amzn.to/3c068m3
 
 Recommended FPGA's
