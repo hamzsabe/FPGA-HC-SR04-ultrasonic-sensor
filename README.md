@@ -15,9 +15,12 @@ Breadboard - https://amzn.to/39VttU5
 Resistor kit - https://amzn.to/3c068m3
 
 Recommended FPGA's
+
 spartan-6 https://a2itronic.ma/product/xilinx-fpga-development-spartan6-xc6slx9-spartan-6-advanced-board/
 
 
 Datasheets:
+
 HC-SR04
+
 http://web.eece.maine.edu/~zhu/book/lab/HC-SR04%20User%20Manual.pdf
